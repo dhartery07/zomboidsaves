@@ -1,0 +1,23 @@
+/backups
+logs.zip
+/Logs
+/mods
+/Workshop
+/messaging
+/Lua
+/Sandbox Presets
+console.txt
+coop-console.txt
+options.ini
+
+Server/*
+!Server/decdaxjad.ini
+!decdaxjad_SandboxVars.lua
+!decdaxjad_spawnregions.lua
+
+db/*
+!decdaxjad.db
+
+Saves/Multiplayer/*
+!decdaxjad/
+!decdaxjad_player/
